@@ -13,3 +13,7 @@ a npm starter based on typescript jest
 -   ts-jest support
 -   cli & cjs module
 -
+
+## TODO
+
+-   ci: test
